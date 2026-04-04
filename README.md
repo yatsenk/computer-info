@@ -1,2 +1,2 @@
-# computer-info
-A convenient TUI application for displaying computer parameters writter in pure Rust
+# mycpu
+A convenient TUI application for displaying CPU parameters writter in pure Rust
